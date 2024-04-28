@@ -4,55 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9a23ff1-c6ee-49c4-a216-37b30cf99d57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/.idea/deploymentTargetDropDown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/.idea/migrations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/androidTest/java/sg/edu/np/mad/wk2_classactivity/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/java/sg/edu/np/mad/wk2_classactivity/Banner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/java/sg/edu/np/mad/wk2_classactivity/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/java/sg/edu/np/mad/wk2_classactivity/Title.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/app/src/test/java/sg/edu/np/mad/wk2_classactivity/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/gradle/libs.versions.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WK2ClassActivity/settings.gradle.kts" afterDir="false" />
-    </list>
+    <list default="true" id="f9a23ff1-c6ee-49c4-a216-37b30cf99d57" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,9 +19,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2fMhU83T6Wzp6X3fbGQJxOcd3gF" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -86,7 +38,8 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/mad2/Documents/MAD24/MAD24-InClassExamples"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
